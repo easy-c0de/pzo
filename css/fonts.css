@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'FuturaLightC';
+    src: url('../fonts/FuturaLightC/futuralightc.eot'),
+    url('../fonts/FuturaLightC/futuralightc.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FuturaLightC/futuralightc.woff2') format('woff2'),
+    url('../fonts/FuturaLightC/futuralightc.woff') format('woff'),
+    url('../fonts/FuturaLightC/futuralightc.ttf') format('truetype'),
+    url('../fonts/FuturaLightC/futuralightc.svg#futuralightc') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaBookC';
+    src: url('../fonts/FuturaBookC/futurabookc.eot'),
+    url('../fonts/FuturaBookC/futurabookc.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FuturaBookC/futurabookc.woff2') format('woff2'),
+    url('../fonts/FuturaBookC/futurabookc.woff') format('woff'),
+    url('../fonts/FuturaBookC/futurabookc.ttf') format('truetype'),
+    url('../fonts/FuturaBookC/futurabookc.svg#futurabookc') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaMediumC';
+    src: url('../fonts/FuturaMediumC/futuramediumc.eot'),
+    url('../fonts/FuturaMediumC/futuramediumc.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FuturaMediumC/futuramediumc.woff2') format('woff2'),
+    url('../fonts/FuturaMediumC/futuramediumc.woff') format('woff'),
+    url('../fonts/FuturaMediumC/futuramediumc.ttf') format('truetype'),
+    url('../fonts/FuturaMediumC/futuramediumc.svg#futuramediumc') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Potra';
+    src: url('../fonts/Potra/Potra.eot'),
+    url('../fonts/Potra/Potra.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Potra/Potra.woff2') format('woff2'),
+    url('../fonts/Potra/Potra.woff') format('woff'),
+    url('../fonts/Potra/Potra.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
